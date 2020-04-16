@@ -2,3 +2,4 @@
 En este repositorio voy a guardar todo lo relacionado con el curso que lleva este nombre.
 Este curso lo realicé hace años y lo retomo en 2020 para repasar.
 No tengo grandes pretensiones.
+Al acabar el curso espero tener algo más de práctica con HitHub y Git.
